@@ -22,6 +22,6 @@ sou um eterno aprendiz, e sempre buscando algo novo que desperte meu ansejo por 
 ## 📈 Minhas Estatísticas quanto ao GitHub ✨
 
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=kauamath&show_icons=true&theme=merko"></img>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=carlosdelfino&show_icons=true&theme=merko"></img>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamath&layout=compact&theme=merko"></img>
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdelfino&layout=compact&theme=merko"></img>
