@@ -12,8 +12,16 @@ sou um eterno aprendiz, e sempre buscando algo novo que desperte meu ansejo por 
 - 😄 Pronouns: ???
 - ⚡ Fun fact: Diversão? fatos engraçdos? que isso?
 
-## Minhas Estatísticas quanto ao GitHub ✨
+## ⚡ Tecnologias
 
-| ![](https://github-readme-stats.vercel.app/api?username=carlosdelfino&theme=dracula&show_icons=true&locale=pt-BR) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdelfino&layout=compact&theme=dracula&langs_count=15&locale=pt-BR) |
-| :---: | :---: |
-| | |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,js,angular,java,verilog,verilog,git,github,gitlab"></img>
+</div>
+  
+
+## 📈 Minhas Estatísticas quanto ao GitHub ✨
+
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=kauamath&show_icons=true&theme=merko"></img>
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamath&layout=compact&theme=merko"></img>
