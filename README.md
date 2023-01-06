@@ -15,7 +15,7 @@ Sou um eterno aprendiz, sempre buscando algo novo que desperte meu ansejo por co
 ## ⚡ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,angular,js,typescript,java,python,django,firebase,verilog,arduino,linux,mysql,eclipse,git,github,gitlab"></img>
+  <img src="https://skillicons.dev/icons?i=html,angular,js,typescript,java,c,python,django,nativescript,firebase,verilog,arduino,linux,mysql,eclipse,git,github,gitlab"></img>
 </div>
   
 
