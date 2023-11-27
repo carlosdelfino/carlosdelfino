@@ -3,6 +3,7 @@ Olá seja bem vindo!
 
 Sou um eterno aprendiz, sempre buscando algo novo que desperte meu ansejo por conhecimento, fui educado numa época que 50 anos era a morte para um homem, e hoje vejo que isso ainda um preconceito que se faz presente na sociedade, e pior, principalmente no meio tecnológico, mas busco me manter sempre atualizado dentro de meus interesses e demandas de clientes.
 
+- 🔭 Dei uma pausa no projeto NiZiN Invest com Python e DJango para me dedicar ao aprendizado do SalesForce por indicação de um colega de profissção;
 - 🔭 Estive estudando Arquitetura de Computadores, buscando construir meu próprio microcontrolador; No momento me dedicando ao projeto NiZiN Invest com Python e DJango;
 - 🌱 Estive aprendendo Verilog e tudo que é relativo a FPGA num contexto mais restrito a simulação com @iVerilog;
 - 👯 Gosto de colaborar em projeto de cunho humanitário e que contribua com a democratização da tecnologia;
@@ -15,7 +16,7 @@ Sou um eterno aprendiz, sempre buscando algo novo que desperte meu ansejo por co
 ## ⚡ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,angular,js,typescript,java,c,python,django,nativescript,firebase,verilog,risc-v,arduino,linux,mysql,eclipse,git,github,gitlab"></img>
+  <img src="https://skillicons.dev/icons?i=html,angular,js,typescript,java,c,python,django,nativescript,firebase,verilog,risc-v,arduino,linux,mysql,eclipse,git,github,gitlab,salesforce"></img>
 </div>
   
 
