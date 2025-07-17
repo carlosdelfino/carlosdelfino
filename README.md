@@ -4,7 +4,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carlosdelfino/carlosdelfino/output/pacman-contribution-graph.svg">
 </picture>
 
-Olá seja bem vindo!
+Olá seja bem vindo! 
+
+<div align="center">
+  Você é o visitante número (desde 17/07/2025) <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosdelfino.carlosdelfino&"  />
+</div>
+
 ===================
 
 _Sou um eterno aprendiz_, sempre buscando algo novo que desperte meu ansejo por conhecimento, fui educado numa época que 50 anos era a morte para um homem, e hoje vejo que isso ainda é um preconceito que se faz presente na sociedade, e pior, principalmente no meio tecnológico, mas busco me manter sempre atualizado dentro de meus interesses e demandas de clientes.
@@ -32,3 +37,8 @@ _Sou um eterno aprendiz_, sempre buscando algo novo que desperte meu ansejo por 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=carlosdelfino&show_icons=true&theme=merko"></img>
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdelfino&layout=compact&theme=merko"></img>
+
+
+<img src="https://raw.githubusercontent.com/carlosdelfino/carlosdelfino/output/snake.svg" alt="Snake animation" />
+
+###
