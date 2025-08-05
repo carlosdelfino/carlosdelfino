@@ -24,7 +24,7 @@ _Sou um eterno aprendiz_, sempre buscando algo novo que desperte meu ansejo por 
 
 ## ⚡ Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,angular,react,js,typescript,nodejs,java,c,python,django,nativescript,firebase,verilog,esp32,stm32,risc-v,arduino,linux,docker,sqlite,mysql,vscode,windsurf,eclipse,vim,bash,git,github,gitlab,salesforce,chatgpt,gmail,ipfs"></img>
+  <img src="https://skillicons.dev/icons?i=html,angular,react,js,typescript,nodejs,java,c,python,django,nativescript,firebase,verilog,esp32,stm32,fpga,risc-v,arduino,linux,docker,sqlite,mysql,vscode,windsurf,eclipse,vim,bash,git,github,gitlab,salesforce,chatgpt,gmail,ipfs"></img>
 </p>
   
 
