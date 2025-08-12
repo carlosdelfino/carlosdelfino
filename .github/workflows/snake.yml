@@ -21,8 +21,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-
-          outputs: |
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+         target_branch: output
+         build_dir: dist
+         outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
