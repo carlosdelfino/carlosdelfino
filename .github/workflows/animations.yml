@@ -18,6 +18,12 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Criar a pasta dist globalmente
+        run: mkdir -p dist
+
+      - name: Garantir o acesso a todos
+        run:  chmod -R a+rw dist
+
       - name: generate snake
         uses: Platane/snk@v3
         with:
