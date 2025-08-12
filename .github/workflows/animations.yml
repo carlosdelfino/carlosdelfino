@@ -18,7 +18,8 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - uses: Platane/snk@v3
+      - name: generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -29,7 +30,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: push pacman and snake to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
