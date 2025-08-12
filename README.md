@@ -36,6 +36,8 @@ _Sou um eterno aprendiz_, sempre buscando algo novo que desperte meu ansejo por 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdelfino&layout=compact&theme=merko"></img>
 
 
-<img src="https://raw.githubusercontent.com/carlosdelfino/carlosdelfino/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
