@@ -17,10 +17,11 @@ _Sou um eterno aprendiz_, sempre buscando algo novo que desperte meu ansejo por 
 - 🔭 Estive estudando Arquitetura de Computadores, buscando construir meu [próprio microcontrolador](https://github.com/riscuinho);
 - 🌱 Estive aprendendo Verilog e tudo que é relativo a FPGA num contexto mais restrito a simulação com @iVerilog;
 - 👯 Gosto de colaborar em projeto de cunho humanitário e que contribua com a democratização da tecnologia;
-- 💬 Não me pergunte nada, eu não sei de nada! mas se perguntar e eu souber tento responder da melhor forma possível e se eu não souber, quem sabé aprenderemos junto!
+- 💬 Não me pergunte nada, eu não sei de nada! mas se perguntar e eu souber tento responder da melhor forma possível e se eu não souber, quem sabe aprenderemos junto!
 - 📫 Você já me encontrou, use a plataforma para isso, você pode usar também o e-mail consultoria@carlosdelfino.eti.br ou pelo Whatsapp +55 85 985205490
 - 😄 Pronouns: Eu, Tu, vós, ele, teu, dele
 - ⚡ Fun fact: Diversão? fatos engraçdos? que isso?
+- ✨ Estou realizando meu sonho de menino (13 anos) em ter minha inteligência artificial.
 
 ## ⚡ Tecnologias
 <p align="center">
