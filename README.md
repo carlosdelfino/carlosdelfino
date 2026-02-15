@@ -28,14 +28,14 @@ _Sou um eterno aprendiz_, sempre buscando algo novo que desperte meu ansejo por 
   <img src="https://skillicons.dev/icons?i=html,angular,react,js,typescript,nodejs,php,java,c,python,django,nativescript,firebase,verilog,fpga,esp32,stm32risc-v,arduino,linux,docker,sqlite,mysql,vscode,windsurf,eclipse,vim,bash,git,github,gitlab,salesforce,chatgpt,gmail,ipfs"></img>
 </p>
   
-
+<!--
 ## 📈 Minhas Estatísticas quanto ao GitHub ✨
 
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=carlosdelfino&show_icons=true&theme=merko"></img>
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdelfino&layout=compact&theme=merko"></img>
-
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosdelfino/carlosdelfino/refs/heads/output/github-snake-dark.svg">
