@@ -35,7 +35,7 @@
 
 ### Hey there! 👋 Welcome to my profile!
 
-I'm **Carlos Delfino**, 54 years old, **Electronics Technician** and graduate in **Computer Network Design & Implementation** — and, as I like to say, an **eternal learner** from Brazil. I have my CFT (Federal Technical Council) registration ready to go, just waiting for the right project to activate it — though I've noticed many professionals in the field work without any certification at all. I have strong expertise in **distributed systems** technologies and I'm currently sharpening my skills in **AWS**. People are often surprised by how deeply I stay involved with technology and how I keep myself up to date. But for me, curiosity has no expiration date.
+I'm **Carlos Delfino**, 54 years old, **Electronics Technician** and graduate in **Computer Network Design & Implementation** — and, as I like to say, an **eternal learner** from Brazil. I have my CFT (Federal Technical Council) registration ready to go, just waiting for the right project to activate it — though I've noticed many professionals in the field work without any certification at all. I have strong expertise in **distributed systems** technologies and I'm currently sharpening my skills in **AWS**. I'm also pursuing a degree in **Software Engineering** — I value well-structured code with properly applied **design patterns**. Nowadays I delegate the heavy lifting to **Generative AI** and use [Windsurf](https://windsurf.com) to speed up repetitive, time-consuming tasks and boost productivity. People are often surprised by how deeply I stay involved with technology and how I keep myself up to date. But for me, curiosity has no expiration date.
 
 **Want to get to know me?** Join my [WhatsApp Tech Community](https://chat.whatsapp.com/IIejcyMX22NAxO6m55KDXV) — we have multiple groups covering technology, electronics, maintenance and more. I try to motivate people to share knowledge and respect differences. Just **tag me in a post** and let's talk!
 
@@ -68,7 +68,7 @@ I'm interested in **remote work** with companies in **Europe** or **Dubai**. I r
 
 ### Olá, seja bem-vindo! 👋
 
-Sou **Carlos Delfino**, tenho 54 anos, **Técnico em Eletrônica** e graduado em **Projeto e Implementação de Redes de Computadores** — e, como gosto de dizer, sou um **eterno aprendiz**. Tenho meu CFT (Conselho Federal dos Técnicos) engatilhado, aguardando um projeto que o demande — embora eu tenha visto muitos profissionais atuando sem nenhuma certificação. Tenho excelente conhecimento em diversas tecnologias para **sistemas distribuídos** e atualmente estou me aperfeiçoando em **AWS**. As pessoas se surpreendem com meu envolvimento com tecnologia e como me mantenho atualizado — mas para mim, aprender é o que dá sentido a cada dia.
+Sou **Carlos Delfino**, tenho 54 anos, **Técnico em Eletrônica** e graduado em **Projeto e Implementação de Redes de Computadores** — e, como gosto de dizer, sou um **eterno aprendiz**. Tenho meu CFT (Conselho Federal dos Técnicos) engatilhado, aguardando um projeto que o demande — embora eu tenha visto muitos profissionais atuando sem nenhuma certificação. Tenho excelente conhecimento em diversas tecnologias para **sistemas distribuídos** e atualmente estou me aperfeiçoando em **AWS**. Estou cursando **Engenharia de Software** — gosto de códigos bem estruturados e com **padrões de projetos** bem aplicados. Hoje deixo o serviço pesado para as **IAs Generativas** e uso o [Windsurf](https://windsurf.com) para me ajudar nas atividades braçais que tomam tempo, buscando assim aumentar a produtividade. As pessoas se surpreendem com meu envolvimento com tecnologia e como me mantenho atualizado — mas para mim, aprender é o que dá sentido a cada dia.
 
 **Quer me conhecer?** Entre na minha [Comunidade Tech no WhatsApp](https://chat.whatsapp.com/IIejcyMX22NAxO6m55KDXV) — são vários grupos sobre tecnologia, eletrônica, manutenção e muito mais. Eu tento motivar as pessoas a trocar conhecimento e respeitar as diferenças. É só **me marcar em uma postagem** e vamos conversar!
 
@@ -103,7 +103,7 @@ Sou **Carlos Delfino**, tenho 54 anos, **Técnico em Eletrônica** e graduado em
 
 ### مرحباً بك! 👋
 
-أنا **كارلوس ديلفينو**، عمري ٥٤ عاماً، **فني إلكترونيات** وخريج **تصميم وتنفيذ شبكات الحاسوب**، ومتعلّم أبدي من البرازيل. لديّ خبرة قوية في **الأنظمة الموزّعة** وأطوّر مهاراتي حالياً في **AWS**. يندهش الناس من شغفي العميق بالتكنولوجيا — لكن الفضول بالنسبة لي لا يعرف حدوداً.
+أنا **كارلوس ديلفينو**، عمري ٥٤ عاماً، **فني إلكترونيات** وخريج **تصميم وتنفيذ شبكات الحاسوب**، ومتعلّم أبدي من البرازيل. لديّ خبرة قوية في **الأنظمة الموزّعة** وأطوّر مهاراتي حالياً في **AWS**. أدرس أيضاً **هندسة البرمجيات** وأقدّر الكود المنظّم و**أنماط التصميم** المطبّقة بشكل صحيح. أستخدم **الذكاء الاصطناعي التوليدي** و[Windsurf](https://windsurf.com) لزيادة الإنتاجية. يندهش الناس من شغفي العميق بالتكنولوجيا — لكن الفضول بالنسبة لي لا يعرف حدوداً.
 
 #### 🔬 ما يحرّكني
 
