@@ -52,7 +52,7 @@ I'm **Carlos Delfino**, 54 years old, **Electronics Technician** and graduate in
 
 #### 📖 Books I've authored
 
-- [Fontes Chaveadas](https://fontechaveada.com/olivro) — Switched-Mode Power Supplies
+- [Fontes Chaveadas](https://fontechaveada.com/livro) — Switched-Mode Power Supplies
 - [Engenharia de Prompt para Programação](https://pay.hotmart.com/P98416403J?off=9k7ipjb2) — Prompt Engineering for Programming
 - [Microcontroladores e FPGA](https://mcu.tec.br/livros) — Microcontrollers & FPGA
 
@@ -85,7 +85,7 @@ Sou **Carlos Delfino**, tenho 54 anos, **Técnico em Eletrônica** e graduado em
 
 #### 📖 Livros que escrevi
 
-- [Fontes Chaveadas](https://fontechaveada.com/olivro) — Um sucesso de vendas com comunidade envolvida.
+- [Fontes Chaveadas](https://fontechaveada.com/livro) — Um sucesso de vendas com comunidade envolvida.
 - [Engenharia de Prompt para Programação](https://pay.hotmart.com/P98416403J?off=9k7ipjb2)
 - [Microcontroladores e FPGA](https://mcu.tec.br/livros)
 
