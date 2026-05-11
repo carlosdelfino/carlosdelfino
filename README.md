@@ -16,12 +16,12 @@
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=carlosdelfino&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&hide_border=true" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=carlosdelfino&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&hide_border=true" /> -->
 <img width="49%" src="https://streak-stats.demolab.com/?user=carlosdelfino&theme=github-dark-blue&hide_border=true" />
 
 <br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdelfino&layout=compact&theme=github_dark&hide_border=true" />
+<!-- <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdelfino&layout=compact&theme=github_dark&hide_border=true" /> -->
 
 <br/><br/>
 
