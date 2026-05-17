@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=c,python,js,typescript,java,php,html,angular,react,nodejs,django,nativescript,firebase,arduino,linux,docker,sqlite,mysql,vscode,vim,bash,git,github,gitlab,eclipse,salesforce&perline=13" />
+<img src="https://skillicons.dev/icons?i=c,python,js,typescript,java,rust,php,html,svg,angular,react,nodejs,nativescript,django,qt,firebase,arduino,linux,ubuntu,docker,sqlite,mysql,postgres,vscode,windsurf,vim,bash,git,github,gitlab,eclipse,ethereun,smartcontracts,linkedin,latex,genai&perline=13" />
 
 <br/><br/>
 
