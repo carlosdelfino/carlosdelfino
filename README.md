@@ -21,6 +21,8 @@
 
 <br/>
 
+<img alt="Ashutosh's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=carlosdelfino"/>
+<br/>
 <!-- <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdelfino&layout=compact&theme=github_dark&hide_border=true" /> -->
 
 <br/><br/>
