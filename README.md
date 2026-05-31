@@ -37,7 +37,7 @@
 
 ### Hey there! 👋 Welcome to my profile!
 
-I'm **Carlos Delfino**, 54 years old, **Electronics Technician** and graduate in **Computer Network Design & Implementation** — and, as I like to say, an **eternal learner** from Brazil. I have my CFT (Federal Technical Council) registration ready to go, just waiting for the right project to activate it — though I've noticed many professionals in the field work without any certification at all. I have strong expertise in **distributed systems** technologies and I'm currently sharpening my skills in **AWS**. I'm also pursuing a degree in **Software Engineering** — I value well-structured code with properly applied **design patterns**. Nowadays I delegate the heavy lifting to **Generative AI** and use [Windsurf](https://windsurf.com) to speed up repetitive, time-consuming tasks and boost productivity. People are often surprised by how deeply I stay involved with technology and how I keep myself up to date. But for me, curiosity has no expiration date.
+I'm **Carlos Delfino**, 54 years old, **Electronics Technician** and graduate in **Computer Network Design & Implementation** — and, as I like to say, an **eternal learner** from Brazil. I have my CFT (Federal Technical Council) registration ready to go, just waiting for the right project to activate it — though I've noticed many professionals in the field work without any certification at all. I have strong expertise in **distributed systems** technologies and I'm currently sharpening my skills in **AWS** as well as in **Distributed and Parallel Computing**. I've also been researching the use of **Smart Contracts in Solidity on the Ethereum blockchain** applied to **cognitive sensor networks for IoT and AIoT**. Going even further, I've been exploring **dataset processing solutions with Intelligent Agents based on OpenClaw** for **natural language interaction**. I'm also pursuing a degree in **Software Engineering** — I value well-structured code with properly applied **design patterns**. Nowadays I delegate the heavy lifting to **Generative AI** and use [Windsurf](https://windsurf.com) to speed up repetitive, time-consuming tasks and boost productivity. People are often surprised by how deeply I stay involved with technology and how I keep myself up to date. But for me, curiosity has no expiration date.
 
 **Want to get to know me?** Join my [WhatsApp Tech Community](https://chat.whatsapp.com/IIejcyMX22NAxO6m55KDXV) — we have multiple groups covering technology, electronics, maintenance and more. I try to motivate people to share knowledge and respect differences. Just **tag me in a post** and let's talk!
 
@@ -62,6 +62,8 @@ I'm **Carlos Delfino**, 54 years old, **Electronics Technician** and graduate in
 
 I'm interested in **remote work** with companies in **Europe** or **Dubai**. I read technical texts in English reasonably well and even venture into other subjects. I'm improving my conversational and writing skills, and I'm also eager to learn **Arabic**.
 
+I'm **open to contract work (PJ), freelance and fixed-scope projects**. My goal will always be the **success of the contracted project**, consistently and consciously applying **cutting-edge technologies** in a **secure and resilient** way. I rely only on technologies already well established in the market — without ever missing the opportunities that innovation brings.
+
 📫 consultoria@carlosdelfino.eti.br · WhatsApp: +55 85 985205490
 
 ---
@@ -70,7 +72,7 @@ I'm interested in **remote work** with companies in **Europe** or **Dubai**. I r
 
 ### Olá, seja bem-vindo! 👋
 
-Sou **Carlos Delfino**, tenho 54 anos, **Técnico em Eletrônica** e graduado em **Projeto e Implementação de Redes de Computadores** — e, como gosto de dizer, sou um **eterno aprendiz**. Tenho meu CFT (Conselho Federal dos Técnicos) engatilhado, aguardando um projeto que o demande — embora eu tenha visto muitos profissionais atuando sem nenhuma certificação. Tenho excelente conhecimento em diversas tecnologias para **sistemas distribuídos** e atualmente estou me aperfeiçoando em **AWS**. Estou cursando **Engenharia de Software** — gosto de códigos bem estruturados e com **padrões de projetos** bem aplicados. Hoje deixo o serviço pesado para as **IAs Generativas** e uso o [Windsurf](https://windsurf.com) para me ajudar nas atividades braçais que tomam tempo, buscando assim aumentar a produtividade. As pessoas se surpreendem com meu envolvimento com tecnologia e como me mantenho atualizado — mas para mim, aprender é o que dá sentido a cada dia.
+Sou **Carlos Delfino**, tenho 54 anos, **Técnico em Eletrônica** e graduado em **Projeto e Implementação de Redes de Computadores** — e, como gosto de dizer, sou um **eterno aprendiz**. Tenho meu CFT (Conselho Federal dos Técnicos) engatilhado, aguardando um projeto que o demande — embora eu tenha visto muitos profissionais atuando sem nenhuma certificação. Tenho excelente conhecimento em diversas tecnologias para **sistemas distribuídos** e atualmente estou me aperfeiçoando em **AWS** e também em **Computação Distribuída e Paralela**. Tenho ainda pesquisado o uso de **Contratos Inteligentes em Solidity na blockchain Ethereum** para uso com **redes de sensores cognitivos para IoT e AIoT**. E indo mais além, tenho pesquisado soluções de **processamento de datasets com Agentes Inteligentes baseados no OpenClaw**, para **interação em linguagem natural**. Estou cursando **Engenharia de Software** — gosto de códigos bem estruturados e com **padrões de projetos** bem aplicados. Hoje deixo o serviço pesado para as **IAs Generativas** e uso o [Windsurf](https://windsurf.com) para me ajudar nas atividades braçais que tomam tempo, buscando assim aumentar a produtividade. As pessoas se surpreendem com meu envolvimento com tecnologia e como me mantenho atualizado — mas para mim, aprender é o que dá sentido a cada dia.
 
 **Quer me conhecer?** Entre na minha [Comunidade Tech no WhatsApp](https://chat.whatsapp.com/IIejcyMX22NAxO6m55KDXV) — são vários grupos sobre tecnologia, eletrônica, manutenção e muito mais. Eu tento motivar as pessoas a trocar conhecimento e respeitar as diferenças. É só **me marcar em uma postagem** e vamos conversar!
 
@@ -93,6 +95,10 @@ Sou **Carlos Delfino**, tenho 54 anos, **Técnico em Eletrônica** e graduado em
 
 👯 Gosto de colaborar em projetos humanitários e que contribuam com a democratização da tecnologia.
 
+#### 🌍 Aberto a oportunidades
+
+Estou **aberto a contratações PJ, Freelancer e projetos fechados**. Meu objetivo sempre será o **sucesso do projeto contratado**, buscando aplicar de forma **consciente** tecnologias de ponta de maneira **segura e resiliente**. Uso apenas tecnologias que já se estabeleceram no mercado, sem perder as oportunidades de inovação.
+
 💬 Não me pergunte nada, eu não sei de nada! Mas se perguntar e eu souber, tento responder da melhor forma possível. Se eu não souber, quem sabe aprenderemos juntos!
 
 📫 consultoria@carlosdelfino.eti.br · WhatsApp: +55 85 985205490
@@ -105,7 +111,7 @@ Sou **Carlos Delfino**, tenho 54 anos, **Técnico em Eletrônica** e graduado em
 
 ### مرحباً بك! 👋
 
-أنا **كارلوس ديلفينو**، عمري ٥٤ عاماً، **فني إلكترونيات** وخريج **تصميم وتنفيذ شبكات الحاسوب**، ومتعلّم أبدي من البرازيل. لديّ خبرة قوية في **الأنظمة الموزّعة** وأطوّر مهاراتي حالياً في **AWS**. أدرس أيضاً **هندسة البرمجيات** وأقدّر الكود المنظّم و**أنماط التصميم** المطبّقة بشكل صحيح. أستخدم **الذكاء الاصطناعي التوليدي** و[Windsurf](https://windsurf.com) لزيادة الإنتاجية. يندهش الناس من شغفي العميق بالتكنولوجيا — لكن الفضول بالنسبة لي لا يعرف حدوداً.
+أنا **كارلوس ديلفينو**، عمري ٥٤ عاماً، **فني إلكترونيات** وخريج **تصميم وتنفيذ شبكات الحاسوب**، ومتعلّم أبدي من البرازيل. لديّ خبرة قوية في **الأنظمة الموزّعة** وأطوّر مهاراتي حالياً في **AWS** وكذلك في **الحوسبة الموزّعة والمتوازية**. كما أبحث في استخدام **العقود الذكية بلغة Solidity على بلوكتشين Ethereum** لشبكات **المستشعرات المعرفية لإنترنت الأشياء (IoT) وإنترنت الأشياء الذكي (AIoT)**. وأبعد من ذلك، أبحث في حلول **معالجة مجموعات البيانات بواسطة وكلاء أذكياء مبنيّين على OpenClaw** لـ**التفاعل باللغة الطبيعية**. أدرس أيضاً **هندسة البرمجيات** وأقدّر الكود المنظّم و**أنماط التصميم** المطبّقة بشكل صحيح. أستخدم **الذكاء الاصطناعي التوليدي** و[Windsurf](https://windsurf.com) لزيادة الإنتاجية. يندهش الناس من شغفي العميق بالتكنولوجيا — لكن الفضول بالنسبة لي لا يعرف حدوداً.
 
 #### 🔬 ما يحرّكني
 
@@ -119,6 +125,8 @@ Sou **Carlos Delfino**, tenho 54 anos, **Técnico em Eletrônica** e graduado em
 #### 🌍 أبحث عن فرص
 
 أبحث عن فرص **عمل عن بُعد** مع شركات في **أوروبا** أو **دبي**. أحسّن لغتي الإنجليزية وبدأت تعلّم **العربية**.
+
+أنا **منفتح على العمل بعقود (PJ) والعمل الحر والمشاريع ذات النطاق المحدّد**. هدفي دائماً هو **نجاح المشروع المتعاقَد عليه**، مع تطبيق **أحدث التقنيات** بوعي وبطريقة **آمنة ومرنة**. أعتمد فقط على التقنيات الراسخة في السوق دون أن أفوّت فرص الابتكار.
 
 💬 **هل تريد التعرف عليّ؟** انضم إلى [مجتمعي التقني على واتساب](https://chat.whatsapp.com/IIejcyMX22NAxO6m55KDXV) — فقط ضع إشارة لي في منشور ولنتحدث!
 
