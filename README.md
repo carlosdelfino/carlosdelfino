@@ -54,6 +54,7 @@ I'm **Carlos Delfino**, 54 years old, **Electronics Technician** and graduate in
 - **RISC-V & FPGA** — Back to studying RISC-V architecture and FPGA development. Exciting news coming soon!
 - **ESP32, RP2040/RP2350 & STM32** — Especially the STM32N6, aiming to become a Cortex-M specialist.
 - **AI** — Living my childhood dream (since I was 13) of building with artificial intelligence.
+- **Web 3.0 & Web 4.0** — Developing studies at [app.agenticspacxe.rapport.tec.br](https://app.agenticspacxe.rapport.tec.br) with Agentic AI.
 
 #### 📖 Books I've authored
 
@@ -89,6 +90,7 @@ Sou **Carlos Delfino**, tenho 54 anos, **Técnico em Eletrônica** e graduado em
 - **RISC-V e FPGA** — Voltei a estudar arquitetura RISC-V e desenvolvimento com FPGA. Em breve terei novidades!
 - **ESP32, RP2040/RP2350 e STM32** — Em especial o STM32N6, com grande desejo de me tornar especialista em Cortex-M.
 - **Inteligência Artificial** — Realizando meu sonho de menino de 13 anos de ter minha própria IA.
+- **Web 3.0 e Web 4.0** — Desenvolvendo estudos em [app.agenticspacxe.rapport.tec.br](https://app.agenticspacxe.rapport.tec.br) com IA Agentica.
 
 #### 📖 Livros que escrevi
 
@@ -124,6 +126,7 @@ Estou **aberto a contratações PJ, Freelancer e projetos fechados**. Meu objeti
 - **الأنظمة المدمجة وإنترنت الأشياء الذكي (AIoT)** — أكملتُ للتو تدريب Embarcatech
 - **ويب ٣.٠** — أدرس حالياً SSI و DID والعقود الذكية على شبكة [HAQQ](https://haqq.network/)
 - **RISC-V و FPGA** — عدتُ لدراسة هذه التقنيات، أخبار مثيرة قريباً
+- **ويب ٣.٠ و ويب ٤.٠** — أطوّر دراسات في [app.agenticspacxe.rapport.tec.br](https://app.agenticspacxe.rapport.tec.br) مع الذكاء الاصطناعي الوكيلي
 
 #### 🌍 أبحث عن فرص
 
